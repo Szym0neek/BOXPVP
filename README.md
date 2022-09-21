@@ -6,13 +6,13 @@
 
 	<body>
 <br>
-<a href="https://szym0neek.github.io/MCBOXPLAYhtml/" target="_blank">
+<a href="https://szym0neek.github.io/HOME/" target="_blank">
 <p><img src="HUB.png" width="200"></p>
 </a>
 
 
 <br>
-<a href="SKLEP BOXPVP.html" target="_blank">
+<a href="https://szym0neek.github.io/SKLEP/" target="_blank">
 <p><img src="SKLEP.png" width="200"></p>
 </a>
 
